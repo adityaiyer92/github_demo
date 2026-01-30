@@ -1,6 +1,7 @@
 def display_menu():
     """Displays the menu of options."""
     print("\n--- To-Do List Menu ---")
+    print("\n---Welcome to the To-Do List!---")
     print("1. View To-Do List")
     print("2. Add Item to To-Do List")
     print("3. Mark Item as Completed")
