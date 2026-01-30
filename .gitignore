@@ -7,3 +7,10 @@ __pycache__/
 # Environment
 .env
 venv/
+
+# Assorted files
+*.log
+
+# Folders to ignore
+build/
+saved_lists/
